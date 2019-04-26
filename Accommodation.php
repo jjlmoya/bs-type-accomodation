@@ -15,8 +15,8 @@ class Accommodation
 	{
 		$this->singular = $singular;
 		$this->plural = $plural;
-		$this->db = 'bs-course';
-		$this->nameSpace = 'bs_course';
+		$this->db = 'bs-accommodation';
+		$this->nameSpace = 'bs_accommodation';
 		$this->path = $path;
 		$this->icon = 'dashicons-store';
 		$this->customFields = $customFields;
